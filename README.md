@@ -2,7 +2,7 @@
 For a -10x engineering performance boost <br/>
 <br/>
 ## General
-Distro: Arch |CachyOS (latest)| <br/>
+Distro: Arch |CachyOS| <br/>
 <br/>
 Waybar: 
 <pre>
