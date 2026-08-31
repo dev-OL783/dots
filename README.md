@@ -13,7 +13,6 @@ Waybar: Change volume with mouse wheel, click to open media controls <br/>
         powerbutton: to turn off waybar <br/>
         (Alt + W = toggle waybar, SUPER + W = turn on waybar) <br/>
 <br/>
-<br/>
 ### System
 -- model: Azuz vivobook 15 (I think) <br/>
 -- monitor: MSI business monitor 27" (1440P 100Hz 16:9) <br/>
