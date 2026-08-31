@@ -1,0 +1,61 @@
+# Cachy-OS
+I chose most of the cachyOS core and base-devel options (except a few like hwinfo and stuff)
+
+# defaults
+terminal: kitty
+file-manager: dolphin
+code-editor: vscodium
+search-engine: zen-browser-bin
+AUR: paru
+
+# essentials:
+hypr-ecosystem
+screen-recorder: OBS
+notifications: swaync
+app-launcher: rofi
+
+# pacman
+7zip
+Ark
+baka-mplayer
+flatpak (in case I need it)
+fsarchiver
+gnome-characters
+intellij-idea-community-edition
+joplin-desktop
+obs-studio 
+obsidian
+opendeck
+partitionmanager (choose this from KDE options in cachy install)
+proton-vpn-cli 
+proton-vpn-gtk-app
+pycharm-community-edition
+python
+ripgrep (choose in cachy install options)
+rofi
+shellcheck
+swaync
+tealdeer 
+termusic
+ttf-jetbrains-mono-nerd
+unrar
+unzip
+vesktop
+vlc
+vscodium
+waybar
+yazi
+yt-dlp
+
+
+# hypr-ecosystem
+hypridle 
+hyprland 
+hyprlock 
+hyprpolkitagent 
+hyprshutdown
+hyprsunset
+xdg-desktop-portal-hyprland
+qt5-wayland 
+qt6-wayland
+
