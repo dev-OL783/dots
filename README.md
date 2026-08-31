@@ -1,28 +1,27 @@
 # Dots
-For -1000x engineering performance boost
-
+For -1000x engineering performance boost \n
+\n
 ## General
-Distro: Arch |CachyOS (latest)|
-
-Waybar: Change volume with mouse wheel, click to open media controls
-        time: 24hr, click to switch to DayOfWeek, DayOfMonth. Month(name)
-        workspaces: 7 of em
-        date: dd/mm/yyyy, hover for calendar (light theme ppl might need to change txt colour of calendar)
-        ram usage: % (hover for usage in GiB)
-        Wifi: name + % connectivity, click for IP
-        powerbutton: to turn off waybar
-        (Alt + W = toggle waybar, SUPER + W = turn on waybar)
-
-
-# System
--- model: Azuz vivobook 15 (I think)
--- monitor: MSI business monitor 27" (1440P 100Hz 16:9)
-
+Distro: Arch |CachyOS (latest)| \n
+\n
+Waybar: Change volume with mouse wheel, click to open media controls \n
+        time: 24hr, click to switch to DayOfWeek, DayOfMonth. Month(name) \n
+        workspaces: 7 of em \n
+        date: dd/mm/yyyy, hover for calendar (light theme ppl might need to change txt colour of calendar) \n
+        ram usage: % (hover for usage in GiB) \n
+        Wifi: name + % connectivity, click for IP \n
+        powerbutton: to turn off waybar \n
+        (Alt + W = toggle waybar, SUPER + W = turn on waybar) \n
+\n
+\n
+### System
+-- model: Azuz vivobook 15 (I think) \n
+-- monitor: MSI business monitor 27" (1440P 100Hz 16:9) \n
+\n
 ## Credits
-saneAspect (hyprland lua guide >> super helpful)
-cebem1nt on Github (for swayNC and a few binding help)
-hyprlandWiki - honestly so helpful
-cachyOS-Wiki
-ArchWiki
-
-Reddit - for my binding help
+saneAspect (hyprland lua guide >> super helpful) \n
+cebem1nt on Github (for swayNC and a few binding help) \n
+hyprlandWiki - honestly so helpful \n
+cachyOS-Wiki \n
+ArchWiki \n
+Reddit - for my binding help \n
