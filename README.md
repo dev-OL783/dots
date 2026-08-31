@@ -79,9 +79,8 @@ Reddit - for my binding help <br/>
   </td>
   <td>
 
-(Ignore this one)
 
-| Bind                  | Description              |
+| Bind (Ignore this one)| Description              |
 |---------------------- |--------------------------|
 | `SUPER + tab`         | Cycle workspace layout (dwindle, scrolling, ...) |
 | `SUPER SHIFT tab`     | Cycle previous workspace layout |
