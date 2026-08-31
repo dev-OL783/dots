@@ -29,7 +29,7 @@ ArchWiki <br/>
 Reddit - for my binding help <br/>
 
 
-<details open>
+<details>
   <summary><h3>Hyprland</h3></summary>
 
 <table>
