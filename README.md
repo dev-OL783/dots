@@ -40,15 +40,15 @@ Reddit - for my binding help <br/>
 | Bind                  | Description              |
 |---------------------- |--------------------------|
 | `SUPER + ;`           | Open terminal            |
-| `ALT + tab`           | cycle through windows    |
+| `ALT + Tab`           | cycle through windows    |
 | `SUPER + z`           | Open zen                 |
 | `SUPER + RETURN`      | Open vscodium            |
 | `SUPER + e`           | Open dolphin             |
 | `SUPER + "`           | Close window             |
 | `ALT + f4`            | Kill window              |
 | `SUPER + v`           | Toggle floating window   |
-| `SUPER SHIFT + f`     | Fullscreen window        |
-| `SUPER + p`           | Pseudo                   |
+| `f11`                 | Fullscreen window        |
+| `SUPER + p`           | Pseudo Tile              |
 | `SUPER + m`           | Minimize (see binds)     |
 | `SUPER + j`           | move left in scrolling   |
 | `SUPER + k`           | move right in scrolling  |
@@ -60,43 +60,43 @@ Reddit - for my binding help <br/>
     
 | Bind                  | Description              |
 |---------------------- |--------------------------|
-| `ALT + Space`         | Rofi (app runner)        |
+| `Alt + w`             | Toggle waybar            |
+| `ALT + Space`         | Rofi (app launcher)      |
 | `SUPER + n`           | Notification center      |
-| `SUPER + c`           | Clipboard                |
-| `WIP`                 | Wallpapers               |
-| `WIP`                 | Logout menu              |
-| `WIP`                 | File browser menu        |
-| `WIP`                 | Emoji selector           |
-| `WIP`                 | Shell commands runner    |
+| `SUPER + c`           | Clipboard   (WIP)        |
+| `SUPER + l`           | Lock screen              |
+| `SUPER + scroll`      | Scroll workspaces        |
+| `SUPER Alt + scroll`  | Scroll windows (WIP)     |
 | `SUPER + arrow keys`  | move focus in direction  |
 | `SUPER + 1...5`       | go to workspace          |
 | `SUPER SHIFT + 1...5` | move to workspace        |
 | `SUPER CTRL + 1...5`  | move & go to workspace   |
 | `SUPER + s`           | toggle special workspace |
 | `SUPER SHIFT + s`     | move to special workspace|
-| `SUPER CTRL + s`      | move & go to special workspace|
+| `SUPER CTRL + s`      | move & go to special     |
 
   </td>
   <td>
 
 
-| Bind (Ignore this one)| Description              |
+| Bind (WIP)            | Description              |
 |---------------------- |--------------------------|
-| `SUPER + tab`         | Cycle workspace layout (dwindle, scrolling, ...) |
-| `SUPER SHIFT tab`     | Cycle previous workspace layout |
-| `SUPER + .`           | Play next song           |
-| `SUPER + ,`           | Play previous song       |
-| `SUPER + p`           | Pseudotile window        |
-| `SUPER + x`           | Hide window (A.K.A "minimize") |
-| `SUPER + o`           | Create a window group    |
-| `SUPER + ]`           | Select next window in group |
-| `SUPER + [`           | Select previous window in group |
+| `PrintScreen`         | Screenshot (WIP)         |
+| `WIP`                 | Wallpapers               |
+| `WIP`                 | Logout menu              |
+| `WIP`                 | File browser menu        |
+| `WIP`                 | Emoji selector           |
+| `WIP`                 | Shell commands runner    |
+| `WIP`                 |  |
+| `SUPER + o`           |     |
+| `SUPER + ]`           |  |
+| `SUPER + [`           |  |
 | `SUPER SHIFT + .`     | Cycle next wallpaper     |
 | `SUPER SHIFT + ,`     | Cycle prev wallpaper     |
-| `SUPER SHIFT + /`     | Toggle wallpapes cycle   |
-| `SUPER SHIFT + y`     | Switch between light and dark theme |
-| `SUPER + space`       | Hide/show dock           |
-| `SUPER SHIFT + space` | Reload waybar            |
+| `SUPER SHIFT + /`     |    |
+| `N.A`                 |  |
+| `N.A`                 |            |
+
 
   </td>
   </tr>
