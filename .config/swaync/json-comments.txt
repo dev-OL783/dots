@@ -1,0 +1,14 @@
+                {
+                    "label": "",
+                    "command": "swaync-client -cp ; $HOME/.config/rofi/bin/logout"
+                } 
+                {
+                    "label": "",
+                    "type": "toggle",
+                    "command": "$HOME/.local/bin/caffeine",
+                    "update-command": "$HOME/.local/bin/caffeine --is-running"
+                },
+                {
+                    "label": "",
+                    "command": "$HOME/.config/swaync/scripts/nwg-look"
+                }
