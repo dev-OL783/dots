@@ -177,6 +177,6 @@ Reddit - for my binding help <br/>
   </tr>
 </table>
 
-> For more detailed info see [`~/.config/mango/binds.conf`](.config/mango/binds.conf).
+> For more detailed info see [`~/.config/mango/binds.conf`](.config/hypr/modules/binds.lua).
 
 </details>
