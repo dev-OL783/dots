@@ -1,5 +1,11 @@
 # Cachy-OS
 I chose most of the cachyOS core and base-devel options (except a few like hwinfo and stuff)
+for hyprland, disable noctalia and noctalia-greet
+for kde, enable partitionmanager
+disable:
+hwinfo (can install manually later)
+raid
+
 
 # defaults
 terminal: kitty
