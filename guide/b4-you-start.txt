@@ -1,0 +1,22 @@
+# I recommend:
+- Arch Wiki (for downloading and configuring an operating system from scratch if you haven't already)
+- CachyOS wiki (if you want to download cachy like me)
+- Backup your files
+- Have a spare computer or tablet that you can open up browsers and search for issues from
+- Patience and Time :), this is gonna be a long journey if you are a first timer linux user
+
+
+## My setup (extensive):
+laptop (computer)
+keyboard + mouse (wired is preferrable)
+streamdeck (not elgato haha)
+mic
+DAC + IEMs
+some bluetooth test items (like mice, headphones, etc.)
+oh, yeah and my brain
+
+# This will be a beginner guide
+So feel free to skip the parts you need (if you're a veteran, just look at the rest of the repo lol).
+
+Status of Guide: Starting 
+(Starting, WIP, Maintaining, Finished, OutDated)
