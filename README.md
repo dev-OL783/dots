@@ -101,7 +101,7 @@ Reddit - for my binding help <br/>
   </tr>
 </table>
 
-> For more detailed info see [`~/.config/hypr/config/binds.lua`](.config/hypr/config/binds.lua).
+> For more detailed info see [`~/.config/hypr/config/binds.lua`](.config/hypr/modules/binds.lua).
 
 </details>
 
