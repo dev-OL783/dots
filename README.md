@@ -63,6 +63,7 @@ Reddit - for my binding help <br/>
 | `Alt + w`             | Toggle waybar            |
 | `ALT + Space`         | Rofi (app launcher)      |
 | `SUPER + n`           | Notification center      |
+| `PrintScreen`         | Screenshot (WIP)         |
 | `SUPER + c`           | Clipboard   (WIP)        |
 | `SUPER + l`           | Lock screen              |
 | `SUPER + scroll`      | Scroll workspaces        |
