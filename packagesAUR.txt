@@ -1,5 +1,5 @@
 # Packages from AUR
-
+opendeck
 yt-x
 tutanota-desktop-bin
 rider
