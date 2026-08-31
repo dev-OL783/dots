@@ -92,8 +92,8 @@ Reddit - for my binding help <br/>
 | `SUPER + o`           |     |
 | `SUPER + ]`           |  |
 | `SUPER + [`           |  |
-| `SUPER SHIFT + .`     | Cycle next wallpaper     |
-| `SUPER SHIFT + ,`     | Cycle prev wallpaper     |
+| `SUPER SHIFT + .`     | Cycle next wallpaper WIP |
+| `SUPER SHIFT + ,`     | Cycle prev wallpaper WIP |
 | `SUPER SHIFT + /`     |    |
 | `N.A`                 |  |
 | `N.A`                 |            |
