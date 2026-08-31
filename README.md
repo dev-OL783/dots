@@ -1,5 +1,5 @@
 # Dots
-For -1000x engineering performance boost <br/>
+For a -1000x engineering performance boost <br/>
 <br/>
 ## General
 Distro: Arch |CachyOS (latest)| <br/>
