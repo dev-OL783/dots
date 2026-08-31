@@ -40,34 +40,34 @@ Reddit - for my binding help <br/>
 | Bind                  | Description              |
 |---------------------- |--------------------------|
 | `SUPER + ;`           | Open terminal            |
-| `SUPER SHIFT + ;`     | Open alacritty in floating mode |
+| `ALT + tab`           | cycle through windows    |
 | `SUPER + z`           | Open zen                 |
 | `SUPER + RETURN`      | Open vscodium            |
 | `SUPER + e`           | Open dolphin             |
 | `SUPER + "`           | Close window             |
-| `Alt + F4`            | Kill window              |
+| `ALT + f4`            | Kill window              |
 | `SUPER + v`           | Toggle floating window   |
 | `SUPER SHIFT + f`     | Fullscreen window        |
-| `SUPER + P`           | Pseudo                   |
-| `N.A`           | Center floating / Cycle scrolling proption |
-| `N.A`     | Cycle scrolling proption back|
-| `N.A`      | Reload hyprland config   |
-| `N.A`           | Make active window a bit smaller |
-| `N.A`           | Make active window a bit bigger |
+| `SUPER + p`           | Pseudo                   |
+| `SUPER + m`           | Minimize (see binds)     |
+| `SUPER + j`           | move left in scrolling   |
+| `SUPER + k`           | move right in scrolling  |
+| `SUPER SHIFT + j//k`  | swap windows             |
+| `SUPER + f`           | toggle fullscreen        |
     
   </td>
   <td>
     
 | Bind                  | Description              |
 |---------------------- |--------------------------|
-| `Alt + Space`         | Drun (app runner)        |
+| `ALT + Space`         | Rofi (app runner)        |
 | `SUPER + n`           | Notification center      |
 | `SUPER + c`           | Clipboard                |
 | `WIP`                 | Wallpapers               |
 | `WIP`                 | Logout menu              |
-| `WIP`           | File browser menu        |
-| `SUPER SHIFT + v`     | Emoji selector           |
-| `SUPER SHIFT + r`     | Shell commands runner    |
+| `WIP`                 | File browser menu        |
+| `WIP`                 | Emoji selector           |
+| `WIP`                 | Shell commands runner    |
 | `SUPER + arrow keys`  | move focus in direction  |
 | `SUPER + 1...5`       | go to workspace          |
 | `SUPER SHIFT + 1...5` | move to workspace        |
