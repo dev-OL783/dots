@@ -33,7 +33,7 @@ Reddit - for my binding help <br/>
   <summary><h3>Hyprland</h3></summary>
 
 <table>
-  <tr><td>General</td><td>Menus & Navigation</td><td>Misc/Hacky</td></tr>
+  <tr><td>General</td><td>Menus & Navigation</td><td>Misc/WIP</td></tr>
   <tr>
   <td>
 
