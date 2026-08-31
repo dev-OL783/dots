@@ -39,34 +39,34 @@ Reddit - for my binding help <br/>
 
 | Bind                  | Description              |
 |---------------------- |--------------------------|
-| `SUPER + ;`           | Open terminal           |
+| `SUPER + ;`           | Open terminal            |
 | `SUPER SHIFT + ;`     | Open alacritty in floating mode |
 | `SUPER + z`           | Open zen                 |
 | `SUPER + RETURN`      | Open vscodium            |
-| `SUPER + b`           | Open thunar              |
-| `SUPER + quote(")`    | Close window             |
-| `SUPER SHIFT + q`     | Kill window              |
-| `SUPER + f`           | Toggle floating window   |
+| `SUPER + e`           | Open dolphin             |
+| `SUPER + "`           | Close window             |
+| `Alt + F4`            | Kill window              |
+| `SUPER + v`           | Toggle floating window   |
 | `SUPER SHIFT + f`     | Fullscreen window        |
-| `SUPER + u`           | Pin window               |
-| `SUPER + w`           | Center floating / Cycle scrolling proption |
-| `SUPER SHIFT + w`     | Cycle scrolling proption back|
-| `SUPER CTRL + r`      | Reload hyprland config   |
-| `SUPER + z`           | Make active window a bit smaller |
-| `SUPER + c`           | Make active window a bit bigger |
+| `SUPER + P`           | Pseudo                   |
+| `N.A`           | Center floating / Cycle scrolling proption |
+| `N.A`     | Cycle scrolling proption back|
+| `N.A`      | Reload hyprland config   |
+| `N.A`           | Make active window a bit smaller |
+| `N.A`           | Make active window a bit bigger |
     
   </td>
   <td>
     
 | Bind                  | Description              |
 |---------------------- |--------------------------|
-| `SUPER + r`           | Drun (app runner)        |
-| `SUPER + t`           | Notification center      |
-| `SUPER + v`           | Clipboard                |
-| `SUPER + y`           | Wallpapers               |
-| `SUPER + ESCAPE`      | Logout menu              |
-| `SUPER + e`           | File browser menu        |
-| `SUPER SHIFT + v`     | Glyphs selector          |
+| `Alt + Space`         | Drun (app runner)        |
+| `SUPER + n`           | Notification center      |
+| `SUPER + c`           | Clipboard                |
+| `WIP`                 | Wallpapers               |
+| `WIP`                 | Logout menu              |
+| `WIP`           | File browser menu        |
+| `SUPER SHIFT + v`     | Emoji selector           |
 | `SUPER SHIFT + r`     | Shell commands runner    |
 | `SUPER + arrow keys`  | move focus in direction  |
 | `SUPER + 1...5`       | go to workspace          |
@@ -78,6 +78,8 @@ Reddit - for my binding help <br/>
 
   </td>
   <td>
+
+(Ignore this one)
 
 | Bind                  | Description              |
 |---------------------- |--------------------------|
