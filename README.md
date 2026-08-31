@@ -39,12 +39,12 @@ Reddit - for my binding help <br/>
 
 | Bind                  | Description              |
 |---------------------- |--------------------------|
-| `SUPER + ;`           | Open alacritty           |
+| `SUPER + ;`           | Open terminal           |
 | `SUPER SHIFT + ;`     | Open alacritty in floating mode |
-| `SUPER + n`           | Open zen                 |
-| `SUPER + m`           | Open vscodium            |
+| `SUPER + z`           | Open zen                 |
+| `SUPER + RETURN`      | Open vscodium            |
 | `SUPER + b`           | Open thunar              |
-| `SUPER + q`           | Close window             |
+| `SUPER + quote(")`    | Close window             |
 | `SUPER SHIFT + q`     | Kill window              |
 | `SUPER + f`           | Toggle floating window   |
 | `SUPER SHIFT + f`     | Fullscreen window        |
