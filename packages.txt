@@ -1,7 +1,7 @@
 # Cachy-OS
 I chose most of the cachyOS core and base-devel options (except a few like hwinfo and stuff)
 for hyprland, disable noctalia and noctalia-greet
-for kde, enable partitionmanager
+in kde section, download kde partition manager
 disable:
 hwinfo (can install manually later)
 raid
