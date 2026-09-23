@@ -1,5 +1,8 @@
 # Packages from AUR
-opendeck
-yt-x
-tutanota-desktop-bin
 rider
+tuime
+tutanota-desktop-bin
+vesktop
+vial-appimage
+yt-x
+ytermusic
